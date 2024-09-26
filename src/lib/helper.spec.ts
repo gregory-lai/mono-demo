@@ -1,4 +1,4 @@
-import { returnTrue } from './helper.ts';
+import { returnTrue } from './helper';
 
 describe('Helper', () => {
   it('should return true', () => {
