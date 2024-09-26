@@ -1,3 +1,3 @@
 export function monoMega(): string {
-  return 'mono-mega';
+  return 'mono-mega update';
 }
