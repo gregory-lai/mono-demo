@@ -5,6 +5,9 @@
       "workspaceChangelog": {
         "createRelease": "github"
       }
+    },
+    "version": {
+      "conventionalCommits": true
     }
   },
   "namedInputs": {
