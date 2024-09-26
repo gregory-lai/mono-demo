@@ -1,3 +1,14 @@
+## 0.4.1 (2024-09-26)
+
+
+### 🩹 Fixes
+
+- small fix ([3eea4ff](https://github.com/gregory-lai/mono-demo/commit/3eea4ff))
+
+### ❤️  Thank You
+
+- gregory-lai @gregory-lai
+
 ## 0.4.0 (2024-09-26)
 
 
