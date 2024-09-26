@@ -1,3 +1,15 @@
+## 0.6.0 (2024-09-26)
+
+
+### 🚀 Features
+
+- great success ([a5c55d2](https://github.com/gregory-lai/mono-demo/commit/a5c55d2))
+- yes ([2cc51e7](https://github.com/gregory-lai/mono-demo/commit/2cc51e7))
+
+### ❤️  Thank You
+
+- gregory-lai @gregory-lai
+
 ## 0.5.0 (2024-09-26)
 
 This was a version bump only, there were no code changes.
