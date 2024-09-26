@@ -1,3 +1,14 @@
+## 2.1.0 (2024-09-26)
+
+
+### 🚀 Features
+
+- add helper function ([17fd3c7](https://github.com/gregory-lai/mono-demo/commit/17fd3c7))
+
+### ❤️  Thank You
+
+- gregory-lai @gregory-lai
+
 ## 0.8.1 (2024-09-26)
 
 This was a version bump only, there were no code changes.
