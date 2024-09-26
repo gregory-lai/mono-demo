@@ -1,3 +1,14 @@
+## 0.2.4 (2024-09-26)
+
+
+### 🩹 Fixes
+
+- feature fix ([521dfcc](https://github.com/gregory-lai/mono-demo/commit/521dfcc))
+
+### ❤️  Thank You
+
+- gregory-lai @gregory-lai
+
 ## 0.2.3 (2024-09-26)
 
 
