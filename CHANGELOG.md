@@ -1,3 +1,14 @@
+## 0.2.3 (2024-09-26)
+
+
+### 🩹 Fixes
+
+- feature fix ([eee3023](https://github.com/gregory-lai/mono-demo/commit/eee3023))
+
+### ❤️  Thank You
+
+- gregory-lai @gregory-lai
+
 ## 0.2.2 (2024-09-26)
 
 
