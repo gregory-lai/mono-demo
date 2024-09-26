@@ -1,3 +1,14 @@
+## 0.6.1 (2024-09-26)
+
+
+### 🩹 Fixes
+
+- yes ([90dee9d](https://github.com/gregory-lai/mono-demo/commit/90dee9d))
+
+### ❤️  Thank You
+
+- gregory-lai @gregory-lai
+
 ## 0.6.0 (2024-09-26)
 
 
