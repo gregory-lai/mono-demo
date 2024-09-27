@@ -1,3 +1,33 @@
+# 1.0.0 (2024-09-27)
+
+
+### 🚀 Features
+
+- update permissions ([a065537](https://github.com/gregory-lai/mono-demo/commit/a065537))
+- create release ([5612d5c](https://github.com/gregory-lai/mono-demo/commit/5612d5c))
+- improvement ([baf227f](https://github.com/gregory-lai/mono-demo/commit/baf227f))
+- another improvement ([4aa6678](https://github.com/gregory-lai/mono-demo/commit/4aa6678))
+- add token ([3aa5afd](https://github.com/gregory-lai/mono-demo/commit/3aa5afd))
+- yes flag ([e9bd037](https://github.com/gregory-lai/mono-demo/commit/e9bd037))
+- my feature ([59429fe](https://github.com/gregory-lai/mono-demo/commit/59429fe))
+- version bump ([99ed331](https://github.com/gregory-lai/mono-demo/commit/99ed331))
+- new feat ([97dfb4d](https://github.com/gregory-lai/mono-demo/commit/97dfb4d))
+- wow, new feature ([f976448](https://github.com/gregory-lai/mono-demo/commit/f976448))
+- this is not a feature ([5de877a](https://github.com/gregory-lai/mono-demo/commit/5de877a))
+- new ([554d8fd](https://github.com/gregory-lai/mono-demo/commit/554d8fd))
+- update package lock ([1867890](https://github.com/gregory-lai/mono-demo/commit/1867890))
+- skip lint test build ([a2ef842](https://github.com/gregory-lai/mono-demo/commit/a2ef842))
+
+### 🩹 Fixes
+
+- update permissions ([b229185](https://github.com/gregory-lai/mono-demo/commit/b229185))
+- rename mono-mega to mono-demo ([5d30891](https://github.com/gregory-lai/mono-demo/commit/5d30891))
+- ci ([dd07190](https://github.com/gregory-lai/mono-demo/commit/dd07190))
+
+### ❤️  Thank You
+
+- gregory-lai @gregory-lai
+
 ## 0.8.0 (2024-09-27)
 
 
