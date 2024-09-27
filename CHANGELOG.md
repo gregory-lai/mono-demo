@@ -1,3 +1,22 @@
+## 0.8.0 (2024-09-27)
+
+
+### 🚀 Features
+
+- update permissions ([a065537](https://github.com/gregory-lai/mono-demo/commit/a065537))
+- create release ([5612d5c](https://github.com/gregory-lai/mono-demo/commit/5612d5c))
+- improvement ([baf227f](https://github.com/gregory-lai/mono-demo/commit/baf227f))
+- another improvement ([4aa6678](https://github.com/gregory-lai/mono-demo/commit/4aa6678))
+- add token ([3aa5afd](https://github.com/gregory-lai/mono-demo/commit/3aa5afd))
+
+### 🩹 Fixes
+
+- update permissions ([b229185](https://github.com/gregory-lai/mono-demo/commit/b229185))
+
+### ❤️  Thank You
+
+- gregory-lai @gregory-lai
+
 ## 0.7.0 (2024-09-27)
 
 
