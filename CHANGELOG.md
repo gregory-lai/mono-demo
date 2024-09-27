@@ -1,3 +1,23 @@
+## 0.9.0 (2024-09-27)
+
+
+### 🚀 Features
+
+- wow, new feature ([f976448](https://github.com/gregory-lai/mono-demo/commit/f976448))
+- this is not a feature ([5de877a](https://github.com/gregory-lai/mono-demo/commit/5de877a))
+- new ([554d8fd](https://github.com/gregory-lai/mono-demo/commit/554d8fd))
+- update package lock ([1867890](https://github.com/gregory-lai/mono-demo/commit/1867890))
+- skip lint test build ([a2ef842](https://github.com/gregory-lai/mono-demo/commit/a2ef842))
+
+### 🩹 Fixes
+
+- rename mono-mega to mono-demo ([5d30891](https://github.com/gregory-lai/mono-demo/commit/5d30891))
+- ci ([dd07190](https://github.com/gregory-lai/mono-demo/commit/dd07190))
+
+### ❤️  Thank You
+
+- gregory-lai @gregory-lai
+
 ## 0.8.0 (2024-09-27)
 
 
