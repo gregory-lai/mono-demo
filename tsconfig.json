@@ -14,7 +14,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@mono-mega/source": ["src/index.ts"]
+      "@mono-demo/source": ["src/index.ts"]
     }
   },
   "files": [],
