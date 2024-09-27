@@ -1,3 +1,14 @@
+## 0.7.0 (2024-09-27)
+
+
+### 🚀 Features
+
+- new addition ([9e81fdc](https://github.com/gregory-lai/mono-demo/commit/9e81fdc))
+
+### ❤️  Thank You
+
+- gregory-lai @gregory-lai
+
 ## 0.6.1 (2024-09-26)
 
 
