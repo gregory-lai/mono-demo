@@ -37,7 +37,8 @@ jobs:
       # Nx Affected runs only tasks affected by the changes in this PR/commit. Learn more: https://nx.dev/ci/features/affected
       - run: npx nx affected -t lint test build
 
-      - run: |
+      - name: Create GitHub Release
+        run: |
           git config --global user.email "you@example.com"
           git config --global user.name "Your Name"
-          npx nx release -y
+          npx nx release
