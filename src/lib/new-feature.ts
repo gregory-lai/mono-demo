@@ -1,3 +1,3 @@
 export function newFeature(): string {
-  return 'very new feature!1';
+  return 'very new feature!21';
 }
